@@ -1,0 +1,11 @@
+Running job for evaluate_local.py
+using device cuda
+checkpoint loaded
+Number of examples: 10000; Number of correct: 9834
+Accuracy: 98.34%
+computing real-image FID features
+drawing 10000 samples
+FID score (no denoising): 103.95
+Denoising samples...
+FID score (denoised): 9.67
+
