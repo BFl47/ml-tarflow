@@ -29,7 +29,6 @@ layers_per_block = 4
 noise_std = 0.1
 
 batch_size = 256
-tsne_perplexity = 5.0
 
 fid_denoising_lr = 1.0 # 0 to no denoising, increase for stronger denoising effect
 
